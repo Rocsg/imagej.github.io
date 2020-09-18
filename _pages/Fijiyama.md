@@ -34,10 +34,10 @@ A comprehensive dataset can be found at [this link](https://zenodo.org/record/36
 
 Demo
 ----
-
+https://www.youtube.com/watch?v=QG_i50XJRfc
 The following video shows an example of Fijiyama application: the registration of two stacks of MRI 3D images, collected on a grapevine cutting at different dates(see the "Training tutorial" for details).
 
-{% include youtube url='https://www.youtube.com/embed/QG\_i50XJRfc'%}
+{% include youtube url='https://www.youtube.com/embed/QG_i50XJRfc'%}
 
 Plugin features
 ---------------
